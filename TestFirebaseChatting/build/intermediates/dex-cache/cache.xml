@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_ee1d385f24c372e61c3a0b9b95cac178ebd0c47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_770286fdf1858a8908a7565a9f941a183933a03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_43fc75fdc7a28e24e8a532f8d1505cb1d2df6bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_ef38e9edba134da1d1cf28301e55a6527735f77a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7e5aea4b6e8cb2840fb8bdc62474b2bc7815e46">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_25b64b0483f7f5b9e108d9840516ca9aa74e5bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_93e7c1400ed7d485f21965511d64c80e84c10533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_7f2e5c2aec090b26c32e161c9840cfdda7bd206b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_a3ea9ed8e1829d68b0da8844259796a40b05960f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_86cbf5498fc499f6751bc91805b660cdd6136b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2e88836822cfb8f14d14fa033752fb0d39a75d3f">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\instant-run_eb9b4ef167e69f036e41477daaab5d4efe320321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_4d2a92c24aec7da977089807e224426873d4c466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_6ba2da3dad637832cd5bf4fbad84e9dbe1796894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e4befa844a73744de9e568f47c68aef1a34b7156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_dd775fe2902a5d6383bcc79ffbec2796a3b5612f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kkb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ca8bf2191c88f13c92c53811a325ac4d4ab95fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_3965253a78e9583573d5c41b38e37f31bd6dda29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_145a08110d25228df8274c1899077d8a5842e41e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_b21e3d2475098b4de4401da3eb5e450915639f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_95841eec8ccfc4b0114f0b6ef7e68200c67b7be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\test\TestFirebaseChatting\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\dev\test\TestFirebaseChatting\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_82ac001dcf379582ffdbd929e426fafe2a5c4449.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1050516665042",
+    "firebase_url": "https://testfirebasechatting.firebaseio.com",
+    "project_id": "testfirebasechatting",
+    "storage_bucket": "testfirebasechatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050516665042:android:d471075a1ca9f16d",
+        "android_client_info": {
+          "package_name": "com.test.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050516665042-t9j9o75asp4ob70igp28ppq5fvtbls4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_b6J0I-rdxEsgeNwzCc_U_qeIRKu-9ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
